@@ -1,1 +1,8 @@
+Documented Phase
 
+
+• Ideation Phase 
+• Project Planning phase 
+• Project Design Phase 
+• Requirement Analysis 
+• Performance Testing 
